@@ -22,6 +22,8 @@ Ctrl + a x
 
 ## Lab Utilities
 
+See: [Lab: Xv6 and Unix utilities](https://pdos.csail.mit.edu/6.828/2023/labs/util.html)
+
 run all tests
 
 ```bash
@@ -42,6 +44,8 @@ make GRADEFLAGS=sleep grade
 ```
 
 ## Lab System calls
+
+See: [Lab: System calls](https://pdos.csail.mit.edu/6.828/2023/labs/syscall.html)
 
 run all tests
 
@@ -66,6 +70,8 @@ Notes: Lack answers-syscall.txt file, need to use gdb to retrieve the correspond
 
 ## Lab Page tables
 
+See: [Lab: page tables](https://pdos.csail.mit.edu/6.828/2023/labs/pgtbl.html)
+
 run all tests
 
 ```bash
@@ -82,6 +88,8 @@ run the grade tests for one assignment
 ```
 
 ## Lab Traps
+
+See: [Lab: Traps](https://pdos.csail.mit.edu/6.828/2023/labs/traps.html)
 
 run all tests
 
@@ -124,6 +132,8 @@ Notes: Lack answers-traps.txt file
 
 ## Lab Copy on-write
 
+See: [Lab: Copy-on-Write Fork for xv6](https://pdos.csail.mit.edu/6.828/2023/labs/cow.html)
+
 run all tests
 
 ```bash
@@ -143,6 +153,8 @@ usertests -q
 Notes: usertests failed in manual test
 
 ## Lab Multithreading
+
+See: [Lab: Multithreading](https://pdos.csail.mit.edu/6.828/2023/labs/thread.html)
 
 run all tests
 
@@ -189,6 +201,8 @@ make barrier
 ```
 
 ## Lab network driver
+
+See: [Lab: networking](https://pdos.csail.mit.edu/6.828/2023/labs/net.html)
 
 run all tests
 
